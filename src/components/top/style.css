@@ -1,0 +1,19 @@
+.Top{
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../../musicBackground.jpg');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.TopSvg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.topComing{
+    color: wheat;
+}
